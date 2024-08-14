@@ -1,6 +1,6 @@
 ### ***SIS-112* PROGRAMACION I**  
   
-***Descripción:*** El proposito de este repositorio es darnos un lugar organizado para poder almacenar y gestionar los codigos que vayamos a realizar en la materia a lo largo del semestre
+***Descripción:*** El proposito de este repositorio es dar un lugar organizado para poder almacenar y gestionar los codigos que se vaya a relizar a lo largo del semestre en esta asignatura
 
 ***Nombre:*** Fabricio Espinoza Catari  
 ***Asignatura:*** Programacion I  
